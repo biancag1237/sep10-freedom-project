@@ -1,5 +1,5 @@
-# Entry 1
-##### X/X/XX
+# Why I Chose Cosmotology
+##### 10/25/2023
 
 Text
 
