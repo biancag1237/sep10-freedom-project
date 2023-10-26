@@ -8,6 +8,12 @@
 
 ## Engineering Design Process :
    As of this state, I am currently in stages 2 and 3.  I have discovered the main problems of what I should right about, which is how technology can help the beauty industry to be more inclusive and safe for everyone.  However, I am leaning more towards stage 3, which is **brainstorming solutions for my problem**.  Some things that can help me with this problem is being more specific when it comes to research, such as searching up "*how can technology help the beauty industry?*" or "*how can technology help the beauty industry with being more inclusive?*"
+
+## Some Skills I Developed :
+Some of the best skills I developed while researching on my topic and working on this blog were...
+
+### How to Google --
+I learned how to research topics and how to find reliable resources for my topics
 [Next](entry02.md)
 
 [Home](../README.md)
