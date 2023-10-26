@@ -13,7 +13,7 @@
 Some of the best skills I developed while researching on my topic and working on this blog were...
 
 ### How to Google --
-I learned how to research topics and how to find reliable resources for my topics
+I learned how to research topics and how to find reliable resources for my topics.  I decided to go more specfic with what I wanted to find since, there are so many other topics if I just search up something general.  Instead of just searching up " *technology and cosemetics* ", I searched up, " *how can technology improve the beauty industry?* ", and if I wanted to be more specific, I searched up, " *How can technology improve the beauty industry with inclusivity and diversity?* "
 [Next](entry02.md)
 
 [Home](../README.md)
