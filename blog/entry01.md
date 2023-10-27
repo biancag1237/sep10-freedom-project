@@ -13,11 +13,13 @@
 Some of the best skills I developed while researching on my topic and working on this blog were...
 
 ### How to Google --
-I learned how to research and how to find reliable resources for my topics.  I decided to go more specfic with what I wanted to find since there are so many other topics if I just search up something general.  Instead of just searching up " *technology and cosemetics* ", I searched up, " *how can technology improve the beauty industry?* ", and if I wanted to be more specific, I searched up, " *How can technology improve the beauty industry with inclusivity and diversity?* "
+I learned how to research and how to find reliable resources for my topics.  I decided to go more specfic with what I wanted to find since there are so many other topics if I just search up something general.  Instead of just searching up " *technology and cosmetics* ", I searched up, " *how can technology improve the beauty industry?* ", and if I wanted to be more specific, I searched up, " *How can technology improve the beauty industry with inclusivity and diversity?* "
 
 ### Time Management --
 When it comes to building projects, I know a lot of people say that time management was important to them, but I believe it was much more important to me.  We truly never stop learning, therefore in addition to setting aside time for my project and my blog, I also needed to continue learning.  I learnt how to be more relaxed about finishing assignments and stop worrying about it all the time by planning my schedule so that I completed my other tasks first and had enough time to focus on my project.
 
+## Conclusion :
+Now, this is the part where I actually start doing my project, and I am very excited to do so.  I hope I learn more about software engineering and cosmetics!
 
 [Next](entry02.md)
 
