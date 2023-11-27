@@ -1,7 +1,8 @@
-# Entry 2
-##### X/X/XX
+# Entry 2 : Cosmetology - Tools 
+##### 11 / 27 / 2023
 
-Text
+## Tools for the Future :
+  As I said in my last entry [" Entro01"] (https://github.com/biancag1237/sep10-freedom-project/blob/main/blog/entry01.md) 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
